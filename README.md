@@ -1,7 +1,5 @@
 # Hostel Booking App
-
 ## Project Structure
-
 ```
 hostel-booking-app/
 └── src/
