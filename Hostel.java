@@ -31,4 +31,3 @@ class Hostel {
         System.out.println("Room not found or already free.");
     }
 }
-
